@@ -14,8 +14,12 @@
         }
 
         @media screen and (max-width: 600px) {
+            h3.mb-3.w-50.m-auto.mt-2 {
+                width: 100% !important;
+                text-align: center;
+            }
             form.user-input{
-                width: 100%;
+                width: 90% !important;
             }
         }
     </style>

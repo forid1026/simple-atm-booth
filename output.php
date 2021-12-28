@@ -31,9 +31,7 @@ $totalNote = $oneThousand + $fiveHundred + $twoHundred + $oneHundred;
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         @media screen and (max-width: 600px) {
-            table{
-                width: 100%;
-            }
+            table.table.w-50.m-auto.border.mt-5.table-striped{ width: 80% !important;}
             
         }
     </style>
