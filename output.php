@@ -32,6 +32,7 @@ $totalNote = $oneThousand + $fiveHundred + $twoHundred + $oneHundred;
     <style>
         @media screen and (max-width: 600px) {
             table.table.w-50.m-auto.border.mt-5.table-striped{ width: 80% !important;}
+            h3.w-50.m-auto.mt-4.text-danger { text-align: center; width: 90% !important;}
             
         }
     </style>
