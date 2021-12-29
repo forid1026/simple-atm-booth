@@ -27,8 +27,7 @@
 <body>
 <h3 class="mb-3 w-50 m-auto mt-2">Simple Atm Booth System</h3>
     <form action="output.php" method="post" class="w-50 user-input shadow-lg p-4  mb-5 bg-body rounded m-auto">
-        <input class="form-control mb-3" type="text" name="num" placeholder="Enter Your Amount">
-        <!-- <br><br> -->
+        <input class="form-control mb-3" type="number" name="num" placeholder="Enter Your Amount">
         <input type="submit" value="Submit" class="btn btn-primary">
     </form>
 </body>
